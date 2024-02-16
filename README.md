@@ -2,7 +2,7 @@
 
 I'm Bhavya Bhatt and I regularly do competitive programming on different platforms. I enjoy problem solving and eagerly learn new things. 
 
-<figure><embed src="https://wakatime.com/share/@018b5492-375e-4e18-b996-7dfbb3405526/729b9044-33d5-42af-93e5-3f1ac20a6a74.svg"></embed></figure>
+<html><figure><embed src="https://wakatime.com/share/@018b5492-375e-4e18-b996-7dfbb3405526/729b9044-33d5-42af-93e5-3f1ac20a6a74.svg"></embed></figure></html>
 
 <!--
 **Harry-122/Harry-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
