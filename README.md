@@ -72,7 +72,7 @@ I'm a backend developer and MSc Advanced Computing student passionate about buil
 
 ---
 
-### 🏅 GitHub Achievements (Optional)
+### 🏅 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harry-122&theme=tokyonight&no-frame=true&row=1&column=6" />
